@@ -108,7 +108,8 @@
   {"format" "json"
    "namespaces" [{"name" "pod.janet.peg"
                   "vars" [{"name" "peg-match"}]}]
-   "ops" {"shutdown" {}}})
+   #"ops" {"shutdown" {}}
+  })
 
 ## main entry point
 
